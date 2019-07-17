@@ -19,4 +19,4 @@ git merge Name - зєднання гілок
 
 git remote add origin https://github.com/drakkinito/GitDemo.git - звязуємо наш локальний репозеторій з удальнним
 git push -u origin master - преносить всі зміни з локального репозиторія в удальонний(на github); push - це відправляємо дані; -u синхронизуємо дані з віткою master
-22222
+
